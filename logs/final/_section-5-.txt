@@ -1,0 +1,2 @@
+AxiosError: 400 - "{\"detail\":\"Failed to download image from https://raw.githubusercontent.com/akramguediri/You-Are-a-Badass-How-to-Stop-Doubting-Your-Greatness-and-Start-Living-an-Awesome-Life-by-J-/main/images/2025-05-26T08%3A04%3A11.509-04%3A00chapter08_image4.png. Error: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out.\"}"
+
